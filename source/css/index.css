@@ -1,0 +1,28 @@
+body {
+  background: white;
+}
+
+#w {
+  font-size: .96rem;
+  position: absolute;
+  top: 2rem;
+  color: red;
+  right: 2rem;
+}
+
+#event {
+  font-size: 2rem;
+  top: 6rem;
+  width: 10rem;
+  text-align: center;
+  margin: 6rem auto;
+  color: yellowgreen;
+}
+
+#m {
+  font-size: .96rem;
+  position: absolute;
+  color: blue;
+  top: 12rem;
+  left: 2rem;
+}
